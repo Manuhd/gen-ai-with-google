@@ -1,8 +1,8 @@
-Gemini AI Chat with Python
+# Gemini AI Chat with Python
 
 A minimal Python project demonstrating how to connect and interact with Google Gemini AI API using the google-generativeai library.
 
-Features:
+## Features:
 
 Uses the latest Gemini 2.5 Flash model
 
@@ -12,23 +12,23 @@ Handles real-time user input and AI responses
 
 Lightweight — only needs google-generativeai and requests
 
-Example Usage:
+ ## Example Usage:
 
-python hello.py
+## python hello.py
 You: Tell me a fun fact about space
 Gemini AI: The footprints on the Moon will likely last for millions of years since there’s no wind or rain to erase them.
 
 
-Requirements:
+# Requirements:
 
-pip install google-generativeai
+### `pip install google-generativeai`
 
 
-Environment Setup:
+## Environment Setup:
 
 export GOOGLE_API_KEY="your_api_key_here"
 
 
-Run:
+## Run:
 
-python hello.py
+### `python hello.py`
