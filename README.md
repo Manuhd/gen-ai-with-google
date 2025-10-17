@@ -16,10 +16,10 @@ A minimal Python project demonstrating how to connect and interact with Google G
 
 ## python hello.py
 
-``
+```
 You: Tell me a fun fact about space
 Gemini AI: The footprints on the Moon will likely last for millions of years since there’s no wind or rain to erase them.
-``
+```
 
 
 # Requirements:
